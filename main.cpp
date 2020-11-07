@@ -62,7 +62,7 @@ void math::en2() //Eigenvalues for 2x2 matrixes
 int main()
 {
     int option;
-    cout << "Assessment 2\nPresented by: Diego Rojas (00315670T)\n";
+    cout << "Assessment 2\nExisting Project\nPresented by: Diego Rojas (00315670T)\n";
     cout << "\nSelect your option:\n1.\tEigen Values of a 2-by-2 matrix.\n2.\tExit\n";
     cout << "\nInsert your choice: "; cin >> option;
     system("cls");
